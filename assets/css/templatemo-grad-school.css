@@ -654,7 +654,16 @@ https://templatemo.com/tm-557-grad-school
     .tabs-content img {
       padding-right: 0px;
     }
-
+    #tabs ul { 
+      column-count: 1; 
+    }
+    p{
+      font-size: 20px;
+      line-height: 22px;
+    }
+    img{
+      width: 60%;
+    }
   }
 
 
