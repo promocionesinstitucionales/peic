@@ -555,8 +555,12 @@ https://templatemo.com/tm-557-grad-school
     clear: both;
     content: "";
     display: table;
-  } 
-  
+  }
+
+  #tabs ul li {
+    display: block; 
+  }
+
   #tabs ul li a {
     display: block;
     font-size: 13px;
